@@ -1,5 +1,5 @@
 ## intro
-ios delivery app   
+ios delivery app for employees
 
 ## guide
 ### Prerequisites
