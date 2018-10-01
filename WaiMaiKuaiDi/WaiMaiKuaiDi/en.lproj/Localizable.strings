@@ -1,0 +1,147 @@
+/* 
+  Localizable.strings
+  WaiMaiKuaiDi
+
+  Created by 王 on 2017/7/29.
+  Copyright © 2017年 王. All rights reserved.
+*/
+CFBundleDisplayName = "Baozou deliver";
+NSMicrophoneUsageDescription = "Accept for using your microphone";
+NSLocationUsageDescription = "Accept for using your location";
+NSLocationWhenInUseUsageDescription = "Accept for update your location";
+NSLocationAlwaysUsageDescription = "Accept for location settings";
+NSCameraUsageDescription = "Accept for camera settings";
+NSPhotoLibraryUsageDescription = "Accept to visit your picture";
+
+"enterPhoneNO" = "Please enter phone number";
+"enterPwd" = "Please enter password";
+"registerNow" = "Sign Up";
+"register1"    = "Register";
+"forgetPwd" = "Forget Password";
+"enterAuthCode" = "Please enter verification code";
+"sendAuthCode" = "Get verification code";
+"sendCodeAgain" = "Resend";
+"userAgreement" = "《User Agreement》";
+"readerAgreement" = "I have read and agree";
+"backToLogin" = "Has account ? Return to login";
+"enterNewPwd" = "Please enter new password";
+"findPwd" = "Retrieve the password";
+"verNewPwd" = "Confirm new password";
+"enterOldPwd" = "Enter original password";
+"submit" = "Submit";
+"GPS"  = "GPS";
+
+"login" = "Sign in";
+"lobby" = "Lobby";
+"order" = "Order";
+"personalCenter" = "Personal Center";
+"homepage" = "Home";
+"MapRecieveOrder" = "Map orders";
+"Code" = "Zip Code";
+"Bill" = "Bill";
+"distance" = "distance";
+
+"robOrder" = "Orders";
+"orderNO" = "Order NO.:";
+"searchPlaceholder" = "Please enter the phone NO. query";
+"screening" = "Filter";
+"inDistribution" = "Distribution";
+"completed" = "Completed";
+"search" = "Search";
+"reset" = "Reset";
+"orderType" = "Order Status";
+"reminder" = "Reminder";
+"startTime" = "Start Time";
+"endTime" = "End Time";
+"payType" = "Payment";
+"balance" = "Balance";
+"enterOrderNO" = "Please enter order NO.";
+"enterPhoneNO" = "Please enter phone NO.";
+"orderManager" = "Order manager";
+"photo" = "Avatar";
+"nickName" = "Nickname";
+"modifyPwd" = "Change Pwd";
+"language" = "Language";
+"Chinese" = "Chinese";
+"English" = "English";
+"takingPictures" = "Take pictures";
+"fromPhotoAlbum"  = "Choose from the phone album";
+"takeOutOrder" = "Take-away orders";
+"TakeOrderSuccess" = "Order success";
+
+"codeNO" = "Zip code";
+"orderTime" = "Order time";
+"indentNo" = "Order NO.";
+"phoneNo" = "Phone NO.";
+"indentDetail" = "Order Detail";
+
+"readUserAgreement" = "Please read the User Service Agreement first";
+"prompt" = "Prompt";
+"cancel" = "Cancel";
+"confirm_search" = "Confirm search";
+
+"orderSuccess" = "Place an order successfully";
+"DeliveryOrder" = "Outsider orders";
+"isTake"   = "Pick up";
+"onRoad" = "On the way";
+"orderEnd" = "Order completed";
+
+"CancelOrder" = "User Cancel Order";
+
+"orderList" = "Order List";
+"Unfinished" = "Undone";
+
+"SelectTime"  = "Select Time";
+
+"accountSettings" = "Account Settings";
+"outLogin"  = "Sign Out";
+"confirmExit" = "Confirm Exit？";
+"confirm" = "Confirm";
+
+"take"   = "Pickup";
+"taked"  = "Been taken";
+
+"IstakeoutAllGoods" = "Whether all goods have been picked up？";
+
+"WaitOrder" = "Pending order";
+"SelectMaps" = "Select the map";
+"AppleMap" = "Apple map";
+"GoogleMap" = "Google Map";
+
+"Year" = "Year";
+"Mon" = "Mon";
+"Day" = "Day";
+"H"  = "H";
+"Min" = "Min";
+"S"  = "S";
+"CreditCard" = "Credit Card Pay";
+"CashPayments" = "Cash Payments";
+"ConfirmReceipt" = "Confirm Receipt";
+"CashText" = "*The user chooses cash payment and after all the goods are served, please confirm receipt！";
+"RewardPoint" = "Reward Point pay";
+
+"DeliveryOrders" = "Delivery Orders";
+"RunningErrandsOrders" = "Personalized Order";
+"BuyComplete" = "Buy Complete";
+
+"FeedBack" = "In the feedback";
+"FeedbackThePrice" = "Feedback The Price";
+"CommodityPrices" = "Commodity Prices";
+"TotalPrice" = "Please enter the total price";
+"ISFeedBack" = "Is FeedBack";
+
+"DistributionTime" = "Distribution Time";
+"PaymentSuccess" = "Payment Success";
+"WaitPayment" = "Wait Payment";
+
+"PayWithCard" = "Pay With Card";
+
+
+"Loading" = "Loading";
+"OrderPrice" = "Order Price";
+"Remark" = "Remark";
+"ContactUs" = "Contact Us";
+"WeChatPublic" = "WeChat Public";
+"ContactEmail" = "Contact Email";
+"recieve" = "receive_en";
+"reminder" = "reminder_en";

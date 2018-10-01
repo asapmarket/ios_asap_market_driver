@@ -1,0 +1,152 @@
+/* 
+  Localizable.strings
+  WaiMaiKuaiDi
+
+  Created by 王 on 2017/7/29.
+  Copyright © 2017年 王. All rights reserved.
+*/
+CFBundleDisplayName = "暴走快递";
+NSMicrophoneUsageDescription = "Accept for using your microphone";
+NSLocationUsageDescription = "Accept for using your location";
+NSLocationWhenInUseUsageDescription = "Accept for update your location";
+NSLocationAlwaysUsageDescription = "Accept for location settings";
+NSCameraUsageDescription = "Accept for camera settings";
+NSPhotoLibraryUsageDescription = "Accept to visit your picture";
+"enterPhoneNO" = "请输入手机号";
+"enterPwd" = "请输入密码";
+"registerNow" = "立即注册";
+"register1"    = "注册";
+"forgetPwd" = "忘记密码";
+"enterAuthCode" = "请输入验证码";
+"sendAuthCode" = "获取验证码";
+"sendCodeAgain" = "重新发送";
+"userAgreement" = "《用户服务协议》";
+"readerAgreement" = "我已阅读并同意";
+"backToLogin" = "已有帐号？返回登录";
+"enterNewPwd" = "请输入新密码";
+"findPwd" = "找回密码";
+"verNewPwd" = "请确认新密码";
+"enterOldPwd" = "请输入原始密码";
+"submit" = "提交";
+"GPS"  = "导航";
+
+"login" = "登录";
+"lobby" = "大厅";
+"order" = "订单";
+"personalCenter" = "个人中心";
+"homepage" = "首页";
+"MapRecieveOrder" = "地图接单";
+"Code" = "邮编";
+"Bill" = "单";
+"distance" = "距我";
+
+"robOrder" = "接单";
+"orderNO" = "订单编号:";
+"searchPlaceholder" = "请输入手机号查询";
+"screening" = "筛选";
+"inDistribution" = "配送中";
+"completed" = "已完成";
+"search" = "搜索";
+"reset" = "重置";
+"orderType" = "订单状态";
+"reminder" = "催单";
+"startTime" = "起始时间";
+"endTime" = "终止时间";
+"payType" = "支付方式";
+"balance" = "余额";
+"enterOrderNO" = "请输入订单编号";
+"enterPhoneNO" = "请输入手机号";
+"orderManager" = "订单管理";
+"photo" = "头像";
+"nickName" = "昵称";
+"modifyPwd" = "修改密码";
+"language" = "语言";
+"Chinese" = "中文";
+"English" = "英语";
+"takingPictures" = "拍照";
+"fromPhotoAlbum"  = "从手机相册选择";
+"takeOutOrder" = "外卖订单";
+"reminderRecord" = "催单记录";
+"TakeOrderSuccess" = "接单成功";
+
+"codeNO" = "邮编地址";
+"orderTime" = "下单时间";
+"indentNo" = "订单号";
+"phoneNo" = "手机号";
+"indentDetail" = "订单详情";
+
+"readUserAgreement" = "请先阅读用户服务协议";
+"prompt" = "提示";
+"cancel" = "取消";
+"confirm_search" = "确认搜索";
+
+"orderSuccess" = "下单成功";
+"DeliveryOrder" = "外卖员接单";
+"isTake"   = "取件中";
+"onRoad" = "在路上";
+"orderEnd" = "订单完成";
+
+"orderList" = "订单列表";
+"Unfinished" = "未完成";
+
+"SelectTime"  = "请选择时间";
+
+"accountSettings" = "账户设置";
+"outLogin"  = "退出登录";
+"confirmExit" = "确认退出？";
+"confirm" = "确认";
+
+"take"   = "取件";
+"taked"  = "已取";
+
+"onRoad" = "在路上";
+
+"IstakeoutAllGoods" = "所有商品是否已取件？";
+
+"WaitOrder" = "待接订单";
+"SelectMaps" = "选择地图";
+"AppleMap" = "苹果地图";
+"GoogleMap" = "谷歌地图";
+"CreditCard" = "信用卡支付";
+
+"Loading" = "重新加载";
+"PayWithCard" = "刷卡支付";
+
+"OrderPrice" = "订单价格";
+"Remark" = "备注";
+"CashPayments" = "现金支付";
+
+"ConfirmReceipt" = "确认收款";
+
+"CashText" = "*该用户选择了现金支付，商品全部送达后，请确认收款！";
+
+"Year" = "年";
+"Mon" = "月";
+"Day" = "日";
+"H"  = "时";
+"Min" = "分";
+"S"  = "秒";
+"ContactUs" = "联系我们";
+"RewardPoint" = "饭点支付";
+
+"WeChatPublic" = "微信公众号";
+"ContactEmail" = "联系邮箱";
+
+"DeliveryOrders" = "外卖订单";
+"RunningErrandsOrders" = "私人定制";
+
+"BuyComplete" = "购买完成";
+"FeedBack" = "反馈中";
+"ISFeedBack" = "已反馈";
+"FeedbackThePrice" = "反馈价格";
+"CommodityPrices" = "商品费";
+"TotalPrice" = "请输入订单总价";
+"DistributionTime" = "配送时间：";
+"CancelOrder" = "用户取消订单";
+"PaymentSuccess" = "付款成功";
+"WaitPayment" = "等待付款";
+
+
+
+"recieve" = "receive";
+"reminder" = "reminder";
